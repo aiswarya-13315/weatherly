@@ -92,7 +92,7 @@ weatherly/
 
 ## 📄 license
 
-MIT — do whatever you want with it ✌️
+MIT — do whatever you want with it (ig)
 
 ---
 
