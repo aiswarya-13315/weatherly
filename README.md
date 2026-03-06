@@ -29,9 +29,9 @@ A dark pixel-art weather app built with Python + Tkinter. Deep purple night sky,
 
 ## 📸 preview
 
-<!-- add a screenshot here after running the app! -->
-<!-- you can drag an image into github when editing the README -->
-> *screenshot coming soon — run it yourself and see! 👀*
+<img width="589" height="828" alt="image" src="https://github.com/user-attachments/assets/8edc7ecf-d205-4f39-a7cc-1b3d7651311c" />
+
+
 
 ---
 
