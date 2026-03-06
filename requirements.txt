@@ -1,0 +1,13 @@
+# no external packages needed!
+# weatherly runs on Python's standard library only.
+#
+# built-in modules used:
+#   tkinter   -- GUI framework
+#   urllib    -- HTTP requests
+#   json      -- parse API responses
+#   threading -- non-blocking API calls
+#   math      -- animations
+#   random    -- star field
+#
+# linux users only -- if tkinter is missing:
+#   sudo apt-get install python3-tk
