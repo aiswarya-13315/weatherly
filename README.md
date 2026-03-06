@@ -23,7 +23,7 @@ A dark pixel-art weather app built with Python + Tkinter. Deep purple night sky,
 - 🕹️ **pixel art sprites** that bounce for each weather condition
 - ⌨️ **pixel-style GO! button** with a press-down effect
 - 🌍 search any city in the world
-- 🪶 **zero dependencies** — pure Python standard library, no pip needed!
+- 🪶 **zero dependencies** - pure Python standard library, no pip needed!
 
 ---
 
